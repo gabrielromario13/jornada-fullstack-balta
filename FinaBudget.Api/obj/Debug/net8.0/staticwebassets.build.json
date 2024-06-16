@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dHIMxb0SI8WJLgTm+53cjC1agy0iajGCtnY799KDlPI=",
+  "Source": "FinaBudget.Api",
+  "BasePath": "_content/FinaBudget.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\FinaBudget\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.deps.json
+C:\FinaBudget\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.dll
+C:\FinaBudget\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.pdb
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.AssemblyInfoInputs.cache
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.AssemblyInfo.cs
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.csproj.CoreCompileInputs.cache
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.sourcelink.json
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.dll
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\refint\FinaBudget.Core.dll
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.pdb
+C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\ref\FinaBudget.Core.dll
