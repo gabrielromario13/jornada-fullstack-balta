@@ -1,62 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\FinaBudget\\",
+  "WorkspaceRootPath": "C:\\GithubProjects\\jornada-fullstack-balta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\finabudget\\finabudget.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\githubprojects\\jornada-fullstack-balta\\finabudget.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|solutionrelative:finabudget.api\\handlers\\transactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\githubprojects\\jornada-fullstack-balta\\finabudget.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|solutionrelative:finabudget.api\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|c:\\finabudget\\finabudget.core\\handlers\\icategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|solutionrelative:finabudget.core\\handlers\\icategoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|c:\\githubprojects\\jornada-fullstack-balta\\finabudget.core\\common\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|solutionrelative:finabudget.core\\common\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\pages\\categories\\getall.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\pages\\categories\\getall.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\pages\\categories\\getall.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\pages\\categories\\getall.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|c:\\finabudget\\finabudget.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D499FFFB-C601-4865-A293-55B3B35D2372}|FinaBudget.Core\\FinaBudget.Core.csproj|solutionrelative:finabudget.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\finabudget\\finabudget.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|solutionrelative:finabudget.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\finabudget\\finabudget.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\githubprojects\\jornada-fullstack-balta\\finabudget.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|solutionrelative:finabudget.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\pages\\categories\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\pages\\categories\\create.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\pages\\categories\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\handlers\\categoryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\webconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\webconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|c:\\finabudget\\finabudget.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8FB587CD-2466-405B-8CDD-776BFBDA93DF}|FinaBudget.Web\\FinaBudget.Web.csproj|solutionrelative:finabudget.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|c:\\finabudget\\finabudget.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D184963-5058-4B54-B523-DE39D80D2C5F}|FinaBudget.Api\\FinaBudget.Api.csproj|solutionrelative:finabudget.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,179 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoryHandler.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Api\\Handlers\\CategoryHandler.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Api\\Handlers\\CategoryHandler.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Api\\Handlers\\CategoryHandler.cs",
-              "RelativeToolTip": "FinaBudget.Api\\Handlers\\CategoryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:26:18.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ICategoryHandler.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Core\\Handlers\\ICategoryHandler.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Core\\Handlers\\ICategoryHandler.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Core\\Handlers\\ICategoryHandler.cs",
-              "RelativeToolTip": "FinaBudget.Core\\Handlers\\ICategoryHandler.cs",
+              "Title": "CategoryHandler.cs",
+              "DocumentMoniker": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeDocumentMoniker": "FinaBudget.Api\\Handlers\\CategoryHandler.cs",
+              "ToolTip": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Handlers\\CategoryHandler.cs",
+              "RelativeToolTip": "FinaBudget.Api\\Handlers\\CategoryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:26:14.192Z",
+              "WhenOpened": "2024-07-01T19:15:35.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Core\\Configuration.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Core\\Configuration.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Core\\Configuration.cs",
-              "RelativeToolTip": "FinaBudget.Core\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "TransactionHandler.cs",
+              "DocumentMoniker": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Handlers\\TransactionHandler.cs",
+              "RelativeDocumentMoniker": "FinaBudget.Api\\Handlers\\TransactionHandler.cs",
+              "ToolTip": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Handlers\\TransactionHandler.cs",
+              "RelativeToolTip": "FinaBudget.Api\\Handlers\\TransactionHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:06:33.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "FinaBudget.Api\\appsettings.json",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Api\\appsettings.json",
-              "RelativeToolTip": "FinaBudget.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-16T15:06:23.438Z",
+              "WhenOpened": "2024-07-01T19:15:34.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GetAll.razor.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\GetAll.razor.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Pages\\Categories\\GetAll.razor.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\GetAll.razor.cs",
-              "RelativeToolTip": "FinaBudget.Web\\Pages\\Categories\\GetAll.razor.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDsAAAAfAAAA",
+              "Title": "DateTimeExtension.cs",
+              "DocumentMoniker": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\Common\\DateTimeExtension.cs",
+              "RelativeDocumentMoniker": "FinaBudget.Core\\Common\\DateTimeExtension.cs",
+              "ToolTip": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\Common\\DateTimeExtension.cs",
+              "RelativeToolTip": "FinaBudget.Core\\Common\\DateTimeExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T15:03:14.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.razor.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\Create.razor.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Pages\\Categories\\Create.razor.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\Create.razor.cs",
-              "RelativeToolTip": "FinaBudget.Web\\Pages\\Categories\\Create.razor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T22:22:32.634Z",
+              "WhenOpened": "2024-07-01T19:15:25.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetAll.razor",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\GetAll.razor",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Pages\\Categories\\GetAll.razor",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\GetAll.razor",
-              "RelativeToolTip": "FinaBudget.Web\\Pages\\Categories\\GetAll.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T22:20:24.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.razor",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\Create.razor",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Pages\\Categories\\Create.razor",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Pages\\Categories\\Create.razor",
-              "RelativeToolTip": "FinaBudget.Web\\Pages\\Categories\\Create.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-15T22:18:26.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebConfiguration.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\WebConfiguration.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\WebConfiguration.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\WebConfiguration.cs",
-              "RelativeToolTip": "FinaBudget.Web\\WebConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T22:03:28.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Api\\Program.cs",
+              "DocumentMoniker": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Program.cs",
               "RelativeDocumentMoniker": "FinaBudget.Api\\Program.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Api\\Program.cs",
+              "ToolTip": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\Program.cs",
               "RelativeToolTip": "FinaBudget.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T22:02:25.931Z",
+              "WhenOpened": "2024-06-24T15:51:34.679Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FinaBudget.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FinaBudget.Api\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-15T21:55:00.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "FinaBudget.Web\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-15T21:53:59.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Program.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Program.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Program.cs",
-              "RelativeToolTip": "FinaBudget.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T21:51:38.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoryHandler.cs",
-              "DocumentMoniker": "C:\\FinaBudget\\FinaBudget.Web\\Handlers\\CategoryHandler.cs",
-              "RelativeDocumentMoniker": "FinaBudget.Web\\Handlers\\CategoryHandler.cs",
-              "ToolTip": "C:\\FinaBudget\\FinaBudget.Web\\Handlers\\CategoryHandler.cs",
-              "RelativeToolTip": "FinaBudget.Web\\Handlers\\CategoryHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T21:48:17.129Z"
             }
           ]
         }

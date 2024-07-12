@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\obj\\Debug\\net8.0\\compressed\\7jj2lt3gp0.gz",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\obj\\Debug\\net8.0\\compressed\\7jj2lt3gp0.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\obj\\Debug\\net8.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\css\\app.css",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\favicon.png",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\icon-192.png",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\icon-512.png",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\index.html",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\FinaBudget\\FinaBudget.Web\\wwwroot\\manifest.webmanifest",
+      "Id": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
     },
     {

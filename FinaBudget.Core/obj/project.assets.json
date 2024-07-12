@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FinaBudget\\FinaBudget.Core\\FinaBudget.Core.csproj",
+      "projectUniqueName": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\FinaBudget.Core.csproj",
       "projectName": "FinaBudget.Core",
-      "projectPath": "C:\\FinaBudget\\FinaBudget.Core\\FinaBudget.Core.csproj",
+      "projectPath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\FinaBudget.Core.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\FinaBudget\\FinaBudget.Core\\obj\\",
+      "outputPath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

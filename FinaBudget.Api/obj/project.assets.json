@@ -4559,11 +4559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FinaBudget\\FinaBudget.Api\\FinaBudget.Api.csproj",
+      "projectUniqueName": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\FinaBudget.Api.csproj",
       "projectName": "FinaBudget.Api",
-      "projectPath": "C:\\FinaBudget\\FinaBudget.Api\\FinaBudget.Api.csproj",
+      "projectPath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\FinaBudget.Api.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\FinaBudget\\FinaBudget.Api\\obj\\",
+      "outputPath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4580,8 +4580,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\FinaBudget\\FinaBudget.Core\\FinaBudget.Core.csproj": {
-              "projectPath": "C:\\FinaBudget\\FinaBudget.Core\\FinaBudget.Core.csproj"
+            "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\FinaBudget.Core.csproj": {
+              "projectPath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\FinaBudget.Core.csproj"
             }
           }
         }
@@ -4639,7 +4639,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

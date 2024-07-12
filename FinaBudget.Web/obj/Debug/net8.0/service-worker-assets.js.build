@@ -821,7 +821,7 @@
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
-      "hash": "sha256-XRJbbIo8kGIKeCz+wbs1aiCrjY5+TWBOyy4soMDhBRE=",
+      "hash": "sha256-6hqQRh\/r01YYgXvaxjXcMTG\/7mSmBpETScEQRjoYU4k=",
       "url": "_framework\/dotnet.js"
     },
     {
@@ -829,7 +829,7 @@
       "url": "_framework\/dotnet.js.map"
     },
     {
-      "hash": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5\/MNo8we4=",
+      "hash": "sha256-eJ2p7P2bDwvNcp1v\/qf825u1rI6KaVRaU6\/\/MMDR1yQ=",
       "url": "_framework\/dotnet.native.8.0.4.6feh6bzalk.js"
     },
     {
@@ -837,7 +837,7 @@
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-JeVsECOqOie\/Pe89n9PJNJaMmb5vJsAAxfXY8INN64A=",
+      "hash": "sha256-3I+FEmezdYNM2dH5xHdpWDzAoSmGSOPjOoORIgtZeAk=",
       "url": "_framework\/dotnet.runtime.8.0.4.9y7j7gd0xc.js"
     },
     {
@@ -857,23 +857,23 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-ZDYdZEc+rOLY712VJH4BebH\/v124cQBZjms9rqcvL0M=",
+      "hash": "sha256-Fna6h56voS0bGV3cL6sDlWpLfMhJSYp0tJMb1HwdvJg=",
       "url": "_framework\/FinaBudget.Core.wasm"
     },
     {
-      "hash": "sha256-JwaW7C5FAGAQ+6gmOKGM9EBlpC0RIoJFZOxNl2TDzBY=",
+      "hash": "sha256-pU4Ba5lo25zHtzhNvwt0FhQ9cRH+qqTp8jUrY7rfqKI=",
       "url": "_framework\/FinaBudget.Core.pdb"
     },
     {
-      "hash": "sha256-UX28FvePDpnf0z4+BJkICXRjx3W+gLVCwtuQXIcrxB8=",
+      "hash": "sha256-W64\/HOtgv57saXUlUTAwy5IQZhqfmkQCRwxri\/Hi5h0=",
       "url": "_framework\/FinaBudget.Web.wasm"
     },
     {
-      "hash": "sha256-GXd2CW1S7wIuOS\/66sglmm9n+l08FSFy5A65q7EkWIM=",
+      "hash": "sha256-\/7Ak0wVny0UEEq3LLZqIAZWhDn5\/XsaS4jO81Ibzw9M=",
       "url": "_framework\/FinaBudget.Web.pdb"
     },
     {
-      "hash": "sha256-Mt3t7wgwFN7V0YC6f2NtQgJaLSodmyZKNcFMFuhRahk=",
+      "hash": "sha256-9U9hiInmIPhYsRIObOwaL+iKRfkKrzkRZGwrUq8lQ1A=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -885,5 +885,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "avQIpmmY"
+  "version": "+9ilDtEz"
 };

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0TtcekfB/+IeaWR1fnefBaBgGyh9OiMvuIwomnZZ/j2Gb1OIMasoIEbdR2U65M0bDTCluKFBiqBFvckWXMzSKQ==",
+  "dgSpecHash": "YvVUxQR7nMxv53OYk23CQN8Gi+LU8lyn3RP8b7BXNmD/6/IWA7+Tn9oXOyFPhic7mIqzIXyOdTNQdtSqWeK8bg==",
   "success": true,
-  "projectFilePath": "C:\\FinaBudget\\FinaBudget.Web\\FinaBudget.Web.csproj",
+  "projectFilePath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Web\\FinaBudget.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
@@ -34,14 +34,14 @@
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.jsinterop\\8.0.4\\microsoft.jsinterop.8.0.4.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.4\\microsoft.jsinterop.webassembly.8.0.4.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.4\\microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.6\\microsoft.net.sdk.webassembly.pack.8.0.6.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\mudblazor\\6.20.0\\mudblazor.6.20.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.4.nupkg.sha512"
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.6\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.6.nupkg.sha512"
   ],
   "logs": []
 }

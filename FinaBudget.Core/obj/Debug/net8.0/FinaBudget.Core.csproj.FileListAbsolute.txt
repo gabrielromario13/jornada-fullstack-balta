@@ -10,3 +10,15 @@ C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.dll
 C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\refint\FinaBudget.Core.dll
 C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.pdb
 C:\FinaBudget\FinaBudget.Core\obj\Debug\net8.0\ref\FinaBudget.Core.dll
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.deps.json
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.dll
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\bin\Debug\net8.0\FinaBudget.Core.pdb
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.AssemblyInfoInputs.cache
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.AssemblyInfo.cs
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.csproj.CoreCompileInputs.cache
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.sourcelink.json
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.dll
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\refint\FinaBudget.Core.dll
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\FinaBudget.Core.pdb
+C:\GithubProjects\jornada-fullstack-balta\FinaBudget.Core\obj\Debug\net8.0\ref\FinaBudget.Core.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yQoQynD2G7UGSKjY9v+ub6s1n2MIsklZ05hqGoJesmO0tRpGxeQWPMCNHKVH2fAiBJUZdGlmVP971IdgVwQHug==",
+  "dgSpecHash": "2/wB7wzY3W9laE4cG3xg2Kz7POHWwuNd1JlphLr+4Uv02esok8LhDZB2H9oG1stTYZfs73D9yjLxM3q73PMQZQ==",
   "success": true,
-  "projectFilePath": "C:\\FinaBudget\\FinaBudget.Core\\FinaBudget.Core.csproj",
+  "projectFilePath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Core\\FinaBudget.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

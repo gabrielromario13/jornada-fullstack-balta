@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ip5myj+oPXqida/P0zhIsGxpR8jgobA6GbPzWt1XM1lh48QRVS8orYX2JNzDUOOJazDETL1fOu/v8PyOuN0NFQ==",
+  "dgSpecHash": "V9TqEpQeKHd2bXWBetmCzdIRDsM9UoZ5TWN6YnFQ5+ERt5HjxI8nC1d2QAyzBiG9gLzCZ1Pe221P0/CVIwKZPA==",
   "success": true,
-  "projectFilePath": "C:\\FinaBudget\\FinaBudget.Api\\FinaBudget.Api.csproj",
+  "projectFilePath": "C:\\GithubProjects\\jornada-fullstack-balta\\FinaBudget.Api\\FinaBudget.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
